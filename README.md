@@ -39,7 +39,7 @@ Bu sayfa; şirketin finansal hacmini, tedarikçi performanslarını ve personel 
 
    Öne Çıkan Detaylar:
     474,74M Kâr ve 1M Satış Miktarı gibi makro KPI'ların unvan bazlı (Örn: İşçi) kırılımlarla takibi.
-      Tedarikçi Lojistik Performansı:** Tedarikçilerin (`Akdeniz Gıda`, `Anadolu Taşımacılık`, `Has Elektronik` vb.) ürün bazında ortalama teslimat sürelerinin matris analizi (Örn: En hızlı ve en yavaş lojistik        partnerlerinin tespiti).
+      Tedarikçi Lojistik Performansı: Tedarikçilerin (`Akdeniz Gıda`, `Anadolu Taşımacılık`, `Has Elektronik` vb.) ürün bazında ortalama teslimat sürelerinin matris analizi (Örn: En hızlı ve en yavaş lojistik        partnerlerinin tespiti).
    Şube bazında personellerin (`Bahar Öztürk`, `Ece Yıldız`, `Mert Polat` vb.) ciroya katkı oranlarının %100 yığılmış çubuk grafikle gösterimi.
   Toplam kâra en çok katkı sağlayan ürün gruplarının (`Günlük Ayakkabı`, `Deri Bot`, `Keten Gömlek` vb.) Pareto eğilimli analizi.
 
