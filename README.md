@@ -51,7 +51,7 @@ Bu sayfa; şirketin finansal hacmini, tedarikçi performanslarını ve personel 
 
 ## 🛠️ Teknik Yetkinlikler ve Araçlar
 
-BI Platformu: Microsoft Power BI
-Veri Modelleme:Yıldız Şeması (Star Schema), Tablo İlişkileri
-Diller: DAX (Data Analysis Expressions) ile dinamik KPI ve kümülatif hesaplamalar
-UX/UI Özellikleri: Dinamik Tooltip Sayfaları, Dilimleyiciler (Slicers), Koşullu Renklendirme, Temizleme Butonları (`Clear all slicers`)
+ BI Platformu: Microsoft Power BI
+ Veri Modelleme:Yıldız Şeması (Star Schema), Tablo İlişkileri
+ Diller: DAX (Data Analysis Expressions) ile dinamik KPI ve kümülatif hesaplamalar
+ UX/UI Özellikleri: Dinamik Tooltip Sayfaları, Dilimleyiciler (Slicers), Koşullu Renklendirme, Temizleme Butonları (`Clear all slicers`)
